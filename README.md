@@ -59,103 +59,60 @@
 
 ---
 
-
 # 🚀 Featured Projects
 
-<table>
-<tr>
+### 🌾 KhetSetu
+A sustainability-focused platform conceptualized for Smart India Hackathon that promotes:
+* Smart farming practices through crop disease detection
+* Weather insights and agricultural awareness
+* Educational content, gamification, and marketplace access
 
-<td width="50%" valign="top">
+**Tech:** Flask • Python • AI  
+[🔗 View Repository](https://github.com/Neetu-Sahu/Khet-Setu)
 
-<h3>🌾 KhetSetu</h3>
+---
 
-AI-powered agriculture platform helping farmers through crop disease detection, weather insights, educational content, gamification, and marketplace access.
+### 🏛️ BPIS
+Bharat Policy Intelligence System that analyzes socio-economic indicators and recommends suitable government schemes featuring:
+* AI-powered governance data analytics
+* Automated scheme filtering based on user demographics
+* Personalized eligibility mapping
 
-<b>Tech:</b> Flask • Python • AI
+**Tech:** Python • AI • Analytics  
+[🔗 View Repository](#)
 
-<br><br>
+---
 
-<a href="https://github.com/Neetu-Sahu/Khet-Setu">🔗 View Repository</a>
+### 🤖 Aurix
+AI-integrated healthcare assistant robot designed for hospital automation, patient monitoring, and elderly-care assistance featuring:
+* Real-time vitals tracking and alerts
+* Automation routines for medication scheduling
+* Interactive user assistance module
 
-</td>
+**Tech:** AI • Robotics • Automation  
+[🔗 View Repository](#)
 
-<td width="50%" valign="top">
+---
 
-<h3>🏛️ BPIS</h3>
+### 📰 Fake News Detector
+Machine learning-powered misinformation detection platform utilizing NLP and confidence analytics featuring:
+* Real-time article link and text classification
+* High-accuracy sentiment and stance breakdown
+* Detailed confidence rating metrics
 
-Bharat Policy Intelligence System that analyzes socio-economic indicators and recommends suitable government schemes through AI-powered analytics.
+**Tech:** NLP • ML • Python  
+[🔗 View Repository](#)
 
-<b>Tech:</b> Python • AI • Analytics
+---
 
-<br><br>
+### 📄 Resume Builder
+Professional resume generation platform featuring live preview and PDF export functionality featuring:
+* Dynamic template updating matching real-time user inputs
+* Clean, ATS-friendly markdown layouts
+* Fast local client-side rendering
 
-<a href="#">🔗 View Repository</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🤖 Aurix</h3>
-
-AI-integrated healthcare assistant robot designed for hospital automation, patient monitoring, and elderly-care assistance.
-
-<b>Tech:</b> AI • Robotics • Automation
-
-<br><br>
-
-<a href="#">🔗 View Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📰 Fake News Detector</h3>
-
-Machine learning-powered misinformation detection platform utilizing NLP and confidence analytics.
-
-<b>Tech:</b> NLP • ML • Python
-
-<br><br>
-
-<a href="#">🔗 View Repository</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>📄 Resume Builder</h3>
-
-Professional resume generation platform featuring live preview and PDF export functionality.
-
-<b>Tech:</b> HTML • CSS • JavaScript
-
-<br><br>
-
-<a href="#">🔗 View Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🔒 Research Project</h3>
-
-Comparative AI Framework for Malware Detection Using Wireshark Derived Packet Analysis.
-
-<b>Status:</b> Ongoing Research
-
-</td>
-
-</tr>
-
-</table>
+**Tech:** HTML • CSS • JavaScript  
+[🔗 View Repository](#)
 
 ---
 
