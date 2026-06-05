@@ -12,7 +12,7 @@
 📊 Exploring Data Analytics, Machine Learning & Prompt Engineering<br>
 🚀 Building impactful solutions while solving real-world challenges through technology
 
-<img src="https://img.shields.io/badge/BACKEND-DEVELOPER-0A66C2?style=for-the-badge" /> <img src="https://img.shields.io/badge/DATA-ANALYTICS-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/IEEE-MEMBER-005BAC?style=for-the-badge" /> <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/OPEN_SOURCE-LEARNER-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BACKEND-DEVELOPER-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/DATA-ANALYTICS-E91E63?style=for-the-badge" /> <img src="https://img.shields.io/badge/IEEE-MEMBER-1E88E5?style=for-the-badge" /> <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-00BCD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/OPEN_SOURCE-LEARNER-F44336?style=for-the-badge" />
 
 </div>
 
