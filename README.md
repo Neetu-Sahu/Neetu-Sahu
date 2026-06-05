@@ -61,17 +61,6 @@
 
 # 🚀 Featured Projects
 
-### 🌾 KhetSetu
-A sustainability-focused platform conceptualized for Smart India Hackathon that promotes:
-* Smart farming practices through crop disease detection
-* Weather insights and agricultural awareness
-* Educational content, gamification, and marketplace access
-
-**Tech:** Flask • Python • AI  
-[🔗 View Repository](https://github.com/Neetu-Sahu/Khet-Setu)
-
----
-
 ### 🏛️ BPIS
 Bharat Policy Intelligence System that analyzes socio-economic indicators and recommends suitable government schemes featuring:
 * AI-powered governance data analytics
@@ -83,15 +72,14 @@ Bharat Policy Intelligence System that analyzes socio-economic indicators and re
 
 ---
 
-### 🤖 Aurix
-AI-integrated healthcare assistant robot designed for hospital automation, patient monitoring, and elderly-care assistance featuring:
-* Real-time vitals tracking and alerts
-* Automation routines for medication scheduling
-* Interactive user assistance module
+### 🌾 KhetSetu
+A sustainability-focused platform conceptualized for Smart India Hackathon that promotes:
+* Smart farming practices through crop disease detection
+* Weather insights and agricultural awareness
+* Educational content, gamification, and marketplace access
 
-**Tech:** AI • Robotics • Automation  
-[🔗 View Details](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/#projects)
-
+**Tech:** Flask • Python • AI  
+[🔗 View Repository](https://github.com/Neetu-Sahu/Khet-Setu)
 
 ---
 
@@ -102,6 +90,17 @@ Machine learning-powered misinformation detection platform utilizing NLP and con
 * Detailed confidence rating metrics
 
 **Tech:** NLP • ML • Python  
+[🔗 View Repository]([https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/#projects](https://github.com/Neetu-Sahu/Fake-News-Detector))
+
+---
+
+### 🤖 Aurix
+AI-integrated healthcare assistant robot designed for hospital automation, patient monitoring, and elderly-care assistance featuring:
+* Real-time vitals tracking and alerts
+* Automation routines for medication scheduling
+* Interactive user assistance module
+
+**Tech:** AI • Robotics • Automation  
 [🔗 View Details](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/#projects)
 
 ---
