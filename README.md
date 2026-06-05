@@ -1,27 +1,208 @@
-# 💫 About Me:
- 
+<div align="center">
 
+# Hi 👋, I'm Neetu Sahu
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neetu_sahu109) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Neetu Sahu) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@NEETU SAHU) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neetusahu183@gmail.com) 
+### Backend Developer • Data Analytics Enthusiast • IEEE Member
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Neetu-Sahu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Neetu-Sahu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Neetu-Sahu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Building+Scalable+Solutions;Always+Learning+New+Technologies" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Neetu-Sahu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/neetu-sahu-83877522b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Neetu-Sahu)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Neetu-Sahu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Neetu-Sahu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 B.Tech Computer Science & Engineering (2024–2028)
+* 🏫 Shri Ram Murti Smarak College of Engineering & Technology
+* 💻 Passionate about Backend Development, APIs, Databases & Software Engineering
+* 📊 Exploring Data Analytics, Machine Learning & Prompt Engineering
+* 🌱 Currently learning System Design and Cloud Technologies
+* 🤝 Active IEEE Member and technology enthusiast
+* ⚡ Building projects that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,nodejs,express,django,fastapi,mongodb,sqlite,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌾 KhetSetu
+
+AI-powered agriculture platform helping farmers through crop disease detection, weather insights, gamification and marketplace access.
+
+**Tech:** Flask • Python • AI
+
+🔗 https://github.com/Neetu-Sahu/Khet-Setu
+
+</td>
+
+<td width="50%">
+
+### 🏛️ BPIS
+
+Bharat Policy Intelligence System for data-driven policymaking and socio-economic analysis.
+
+**Tech:** AI • Analytics • Python
+
+🔗 PROJECT_LINK
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Aurix
+
+AI-integrated healthcare assistant robot for automation and patient support.
+
+**Tech:** AI • Robotics • Automation
+
+🔗 PROJECT_LINK
+
+</td>
+
+<td width="50%">
+
+### 📰 Fake News Detector
+
+NLP-based misinformation detection using machine learning and confidence analytics.
+
+**Tech:** NLP • ML • Python
+
+🔗 PROJECT_LINK
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📄 Resume Builder
+
+Professional resume generation platform with live preview and PDF export.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 PROJECT_LINK
+
+</td>
+
+<td width="50%">
+
+### 🔒 Research
+
+Comparative AI Framework for Malware Detection Using Wireshark Derived Packet Analysis.
+
+**Status:** Coming Soon
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+* 🏅 Python for Data Science (NPTEL)
+* 🏅 Programming in Java (NPTEL)
+* 🏅 Generative AI for Beginners
+* 🏅 React Bootcamp
+* 🏅 HTML & CSS Certification
+* 🏅 Web Development Certification
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neetu-Sahu&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetu-Sahu&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Neetu-Sahu&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Neetu-Sahu&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neetu-Sahu&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Neetu-Sahu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/neetu-sahu-83877522b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Neetu-Sahu&style=for-the-badge&color=blueviolet"/>
+
+### 💡 Motto
+
+*"Building impactful technology solutions through continuous learning, innovation, and collaboration."*
+
+</div>
