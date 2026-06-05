@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" />
 
 🎓 B.Tech Computer Science & Engineering (2024–2028)<br>
-🏫 Shri Ram Murti Smarak College of Engineering & Technology
-💻 Passionate about Backend Development, APIs, Databases & Software Engineering
-📊 Exploring Data Analytics, Machine Learning & Prompt Engineering
+🏫 Shri Ram Murti Smarak College of Engineering & Technology<br>
+💻 Passionate about Backend Development, APIs, Databases & Software Engineering<br>
+📊 Exploring Data Analytics, Machine Learning & Prompt Engineering<br>
 🚀 Building impactful solutions while solving real-world challenges through technology
 
 <img src="https://img.shields.io/badge/BACKEND-DEVELOPER-0A66C2?style=for-the-badge" /> <img src="https://img.shields.io/badge/DATA-ANALYTICS-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/IEEE-MEMBER-005BAC?style=for-the-badge" /> <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/OPEN_SOURCE-LEARNER-FF6B35?style=for-the-badge" />
