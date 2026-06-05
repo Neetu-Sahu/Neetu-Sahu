@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi 👋, I'm Neetu Sahu
@@ -276,4 +275,3 @@ Advanced machine learning framework for detecting malicious network traffic patt
 *"Building impactful technology solutions through continuous learning, innovation, and collaboration."*
 
 </div>
-```
