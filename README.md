@@ -167,20 +167,28 @@ Comparative AI Framework for Malware Detection Using Wireshark Derived Packet An
 
 # 📚 Research
 
+<table>
+<tr>
+<td>
+
 ## 🧠 A Comparative AI Framework for Malware Detection Using Wireshark Derived Packet Analysis
 
 Advanced machine learning framework for detecting malicious network traffic patterns through intelligent packet analysis and behavioral classification.
 
-### Research Areas
+### 🔍 Research Areas
+* 🛡️ Malware Detection
+* 🌐 Network Security
+* 🤖 Machine Learning
+* 🦈 Wireshark Analytics
+* 🔒 Cybersecurity
 
-- Malware Detection
-- Network Security
-- Machine Learning
-- Wireshark Analytics
-- Cybersecurity
+---
 
 📄 Paper Status: **Coming Soon**
 
+</td>
+</tr>
+</table>
 ---
 
 # 🏆 Certifications
