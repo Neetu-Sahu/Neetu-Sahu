@@ -89,7 +89,7 @@ AI-integrated healthcare assistant robot designed for hospital automation, patie
 * Automation routines for medication scheduling
 * Interactive user assistance module
 
-**Tech:** AI • Robotics • Automation
+**Tech:** AI • Robotics • Automation  
 [🔗 View Details](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/#projects)
 
 
