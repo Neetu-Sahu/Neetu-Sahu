@@ -1,95 +1,102 @@
+```md
 <div align="center">
 
 # Hi 👋, I'm Neetu Sahu
 
 ### Backend Developer • Data Analytics Enthusiast • IEEE Member
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Building+Scalable+Solutions;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/neetu-sahu-83877522b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Neetu-Sahu)
+🎓 B.Tech Computer Science & Engineering (2024–2028)
+
+🏫 Shri Ram Murti Smarak College of Engineering & Technology
+
+💻 Passionate about Backend Development, APIs, Databases & Software Engineering
+
+📊 Exploring Data Analytics, Machine Learning & Prompt Engineering
+
+🚀 Building impactful solutions while solving real-world challenges through technology
+
+<br>
+
+<img src="https://img.shields.io/badge/BACKEND-DEVELOPER-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DATA-ANALYTICS-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IEEE-MEMBER-005BAC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-LEARNER-FF6B35?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 B.Tech Computer Science & Engineering (2024–2028)
-* 🏫 Shri Ram Murti Smarak College of Engineering & Technology
-* 💻 Passionate about Backend Development, APIs, Databases & Software Engineering
-* 📊 Exploring Data Analytics, Machine Learning & Prompt Engineering
-* 🌱 Currently learning System Design and Cloud Technologies
-* 🤝 Active IEEE Member and technology enthusiast
-* ⚡ Building projects that solve real-world problems
+- 🎓 Computer Science Engineering student with a strong foundation in software development and backend systems.
+- 💻 Focused on Backend Development using Python, FastAPI, Flask, Node.js, and modern web technologies.
+- 🗄️ Passionate about databases, API architecture, and scalable application design.
+- 📊 Exploring Data Analytics, Machine Learning, and intelligent data-driven solutions.
+- 🌱 Currently learning System Design, Cloud Technologies, and distributed systems.
+- 🤝 Active IEEE Member who enjoys learning, collaborating, and contributing to technology communities.
+- ⚡ Passionate about building impactful products that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,nodejs,express,django,fastapi,mongodb,sqlite,git,github,vscode" />
+
+<a href="https://www.linkedin.com/in/neetu-sahu-83877522b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="mailto:neetusahu183@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Neetu-Sahu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌾 KhetSetu
+<h3>🌾 KhetSetu</h3>
 
-AI-powered agriculture platform helping farmers through crop disease detection, weather insights, gamification and marketplace access.
+AI-powered agriculture platform helping farmers through crop disease detection, weather insights, educational content, gamification, and marketplace access.
 
-**Tech:** Flask • Python • AI
+<b>Tech:</b> Flask • Python • AI
 
-🔗 https://github.com/Neetu-Sahu/Khet-Setu
+<br><br>
 
-</td>
-
-<td width="50%">
-
-### 🏛️ BPIS
-
-Bharat Policy Intelligence System for data-driven policymaking and socio-economic analysis.
-
-**Tech:** AI • Analytics • Python
-
-🔗 PROJECT_LINK
+<a href="https://github.com/Neetu-Sahu/Khet-Setu">🔗 View Repository</a>
 
 </td>
 
-</tr>
+<td width="50%" valign="top">
 
-<tr>
+<h3>🏛️ BPIS</h3>
 
-<td width="50%">
+Bharat Policy Intelligence System that analyzes socio-economic indicators and recommends suitable government schemes through AI-powered analytics.
 
-### 🤖 Aurix
+<b>Tech:</b> Python • AI • Analytics
 
-AI-integrated healthcare assistant robot for automation and patient support.
+<br><br>
 
-**Tech:** AI • Robotics • Automation
-
-🔗 PROJECT_LINK
-
-</td>
-
-<td width="50%">
-
-### 📰 Fake News Detector
-
-NLP-based misinformation detection using machine learning and confidence analytics.
-
-**Tech:** NLP • ML • Python
-
-🔗 PROJECT_LINK
+<a href="#">🔗 View Repository</a>
 
 </td>
 
@@ -97,101 +104,164 @@ NLP-based misinformation detection using machine learning and confidence analyti
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📄 Resume Builder
+<h3>🤖 Aurix</h3>
 
-Professional resume generation platform with live preview and PDF export.
+AI-integrated healthcare assistant robot designed for hospital automation, patient monitoring, and elderly-care assistance.
 
-**Tech:** HTML • CSS • JavaScript
+<b>Tech:</b> AI • Robotics • Automation
 
-🔗 PROJECT_LINK
+<br><br>
+
+<a href="#">🔗 View Repository</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔒 Research
+<h3>📰 Fake News Detector</h3>
+
+Machine learning-powered misinformation detection platform utilizing NLP and confidence analytics.
+
+<b>Tech:</b> NLP • ML • Python
+
+<br><br>
+
+<a href="#">🔗 View Repository</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📄 Resume Builder</h3>
+
+Professional resume generation platform featuring live preview and PDF export functionality.
+
+<b>Tech:</b> HTML • CSS • JavaScript
+
+<br><br>
+
+<a href="#">🔗 View Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔒 Research Project</h3>
 
 Comparative AI Framework for Malware Detection Using Wireshark Derived Packet Analysis.
 
-**Status:** Coming Soon
+<b>Status:</b> Ongoing Research
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## 📜 Certifications
+# 📚 Research
 
-* 🏅 Python for Data Science (NPTEL)
-* 🏅 Programming in Java (NPTEL)
-* 🏅 Generative AI for Beginners
-* 🏅 React Bootcamp
-* 🏅 HTML & CSS Certification
-* 🏅 Web Development Certification
+## 🧠 A Comparative AI Framework for Malware Detection Using Wireshark Derived Packet Analysis
+
+Advanced machine learning framework for detecting malicious network traffic patterns through intelligent packet analysis and behavioral classification.
+
+### Research Areas
+
+- Malware Detection
+- Network Security
+- Machine Learning
+- Wireshark Analytics
+- Cybersecurity
+
+📄 Paper Status: **Coming Soon**
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Certifications
 
-<div align="center">
+- 🥇 Python for Data Science (NPTEL)
+- 🥇 Programming in Java (NPTEL)
+- 🥇 Generative AI for Beginners
+- 🥇 React Bootcamp
+- 🥇 HTML & CSS Certification
+- 🥇 Ultimate Web Development Course
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,nodejs,express,django,fastapi,mongodb,mysql,sqlite,react,firebase,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neetu-Sahu&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetu-Sahu&layout=compact&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Neetu-Sahu&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Neetu-Sahu&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neetu-Sahu&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<a href="https://github.com/Neetu-Sahu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+<img src="https://streak-stats.demolab.com?user=Neetu-Sahu&theme=tokyonight"/>
 
-<a href="https://www.linkedin.com/in/neetu-sahu-83877522b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+</p>
 
-<a href="https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel">
-</a>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neetu-Sahu&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Neetu-Sahu&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Neetu-Sahu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </p>
 
@@ -199,10 +269,11 @@ Comparative AI Framework for Malware Detection Using Wireshark Derived Packet An
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Neetu-Sahu&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Neetu-Sahu&style=for-the-badge&color=0e75b6"/>
 
 ### 💡 Motto
 
 *"Building impactful technology solutions through continuous learning, innovation, and collaboration."*
 
 </div>
+```
