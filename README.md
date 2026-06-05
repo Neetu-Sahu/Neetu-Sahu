@@ -79,7 +79,7 @@ Bharat Policy Intelligence System that analyzes socio-economic indicators and re
 * Personalized eligibility mapping
 
 **Tech:** Python • AI • Analytics  
-[🔗 View Repository](#)
+[🔗 View Repository](https://github.com/Neetu-Sahu/BPIS-Bharat-Policy-Intelligence-System-)
 
 ---
 
@@ -89,8 +89,9 @@ AI-integrated healthcare assistant robot designed for hospital automation, patie
 * Automation routines for medication scheduling
 * Interactive user assistance module
 
-**Tech:** AI • Robotics • Automation  
-[🔗 View Repository](#)
+**Tech:** AI • Robotics • Automation 
+[🔗 View Details](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/#projects)
+
 
 ---
 
@@ -101,7 +102,7 @@ Machine learning-powered misinformation detection platform utilizing NLP and con
 * Detailed confidence rating metrics
 
 **Tech:** NLP • ML • Python  
-[🔗 View Repository](#)
+[🔗 View Details](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/#projects)
 
 ---
 
@@ -112,7 +113,7 @@ Professional resume generation platform featuring live preview and PDF export fu
 * Fast local client-side rendering
 
 **Tech:** HTML • CSS • JavaScript  
-[🔗 View Repository](#)
+[🔗 View Details](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/#projects)
 
 ---
 
