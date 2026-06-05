@@ -145,8 +145,6 @@ Professional resume generation platform featuring live preview and PDF export fu
 
 ---
 
----
-
 ## <font size="4">📫 Connect With Me</font>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23FF4500.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/) [![Email](https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neetusahu183@gmail.com) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neetu-sahu-83877522b/) [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neetu-Sahu)
@@ -158,9 +156,5 @@ Professional resume generation platform featuring live preview and PDF export fu
 > Building scalable technology, contributing to open source, and creating opportunities for others through innovation, leadership, and collaboration.
 
 ⭐️ Always open to learning, collaborating, and building impactful technology.
-
-### 💡 Motto
-
-*"Building impactful technology solutions through continuous learning, innovation, and collaboration."*
 
 </div>
