@@ -90,7 +90,7 @@ Machine learning-powered misinformation detection platform utilizing NLP and con
 * Detailed confidence rating metrics
 
 **Tech:** NLP • ML • Python  
-[🔗 View Repository]([https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/#projects](https://github.com/Neetu-Sahu/Fake-News-Detector))
+[🔗 View Repository](https://github.com/Neetu-Sahu/Fake-News-Detector)
 
 ---
 
