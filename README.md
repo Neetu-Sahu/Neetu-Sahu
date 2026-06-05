@@ -145,71 +145,19 @@ Professional resume generation platform featuring live preview and PDF export fu
 
 ---
 
-# 📊 GitHub Stats
+---
 
-<p align="center">
+## <font size="4">📫 Connect With Me</font>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neetu-Sahu&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetu-Sahu&layout=compact&theme=tokyonight"/>
-
-</p>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23FF4500.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/) [![Email](https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neetusahu183@gmail.com) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neetu-sahu-83877522b/) [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neetu-Sahu)
 
 ---
 
-# 🔥 GitHub Streak
+## <font size="4">💡 Motto</font>
 
-<p align="center">
+> Building scalable technology, contributing to open source, and creating opportunities for others through innovation, leadership, and collaboration.
 
-<img src="https://streak-stats.demolab.com?user=Neetu-Sahu&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neetu-Sahu&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Neetu-Sahu&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔝 Top Contributed Repositories
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Neetu-Sahu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Neetu-Sahu&style=for-the-badge&color=0e75b6"/>
+⭐️ Always open to learning, collaborating, and building impactful technology.
 
 ### 💡 Motto
 
