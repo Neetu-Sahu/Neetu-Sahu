@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Neetu Sahu
 
-### Backend Developer • Data Analytics Enthusiast • IEEE Members
+### Backend Developer • Data Analytics Enthusiast • IEEE Member
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" />
 
