@@ -10,7 +10,7 @@
 🏫 Shri Ram Murti Smarak College of Engineering & Technology<br>
 💻 Passionate about Backend Development, APIs, Databases & Software Engineering<br>
 📊 Exploring Data Analytics, Machine Learning & Prompt Engineering<br>
-🚀 Building impactful solutions while solving real-world challenges through technology
+🚀 Building impactful solutions while solving real-world challenges  technology
 
 <img src="https://img.shields.io/badge/BACKEND-DEVELOPER-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/DATA-ANALYTICS-E91E63?style=for-the-badge" /> <img src="https://img.shields.io/badge/IEEE-MEMBER-1E88E5?style=for-the-badge" /> <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-00BCD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/OPEN_SOURCE-LEARNER-F44336?style=for-the-badge" />
 
