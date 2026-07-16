@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" />
-
 # Hi 👋, I'm Neetu Sahu
 
 ### Backend Developer • Data Analytics Enthusiast • IEEE Member
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" />
-
-<br>
-
-<table>
-<tr>
-<td width="70%">
 
 🎓 B.Tech Computer Science & Engineering (2024–2028)<br>
 🏫 Shri Ram Murti Smarak College of Engineering & Technology<br>
@@ -20,23 +12,7 @@
 📊 Exploring Data Analytics, Machine Learning & Prompt Engineering<br>
 🚀 Building impactful solutions while solving real-world challenges through technology
 
-</td>
-
-<td width="30%">
-
-<img src="YOUR_CARTOON_GIF_URL" width="250"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/BACKEND-DEVELOPER-4CAF50?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DATA-ANALYTICS-E91E63?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IEEE-MEMBER-1E88E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PYTHON-DEVELOPER-00BCD4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OPEN_SOURCE-LEARNER-F44336?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BACKEND-DEVELOPER-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/DATA-ANALYTICS-E91E63?style=for-the-badge" /> <img src="https://img.shields.io/badge/IEEE-MEMBER-1E88E5?style=for-the-badge" /> <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-00BCD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/OPEN_SOURCE-LEARNER-F44336?style=for-the-badge" />
 
 </div>
 
