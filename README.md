@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=220&text=Hi%20👋,%20I'm%20Neetu%20Sahu&fontSize=42&fontColor=ffffff&desc=Backend%20Developer%20•%20Data%20Analytics%20Enthusiast%20•%20IEEE%20Member&descSize=18&color=gradient" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=250&text=Hi%20👋,%20I'm%20Neetu%20Sahu&fontSize=42&fontColor=ffffff&desc=Backend%20Developer%20•%20Data%20Analytics%20Enthusiast%20•%20IEEE%20Member&descSize=18&color=gradient" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" />
 
