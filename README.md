@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" />
 
+<img src="https://raw.githubusercontent.com/Neetu-Sahu/Neetu-Sahu/main/coding.mp4" width="350"/>
+
 🎓 B.Tech Computer Science & Engineering (2024–2028)<br>
 🏫 Shri Ram Murti Smarak College of Engineering & Technology<br>
 💻 Passionate about Backend Development, APIs, Databases & Software Engineering<br>
