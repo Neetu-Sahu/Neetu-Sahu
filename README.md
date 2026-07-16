@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Neetu Sahu
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Hi%20👋,%20I'm%20Neetu%20Sahu&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20•%20Data%20Analytics%20Enthusiast%20•%20IEEE%20Member&descAlignY=65&descSize=20" width="100%" />
 
-### Backend Developer • Data Analytics Enthusiast • IEEE Member
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" /><img src="working.gif" width="200" />
+<img src="working.gif" width="200" />
 
 🎓 B.Tech Computer Science & Engineering (2024–2028)<br>
 🏫 Shri Ram Murti Smarak College of Engineering & Technology<br>
