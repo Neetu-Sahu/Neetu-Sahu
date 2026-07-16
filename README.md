@@ -1,9 +1,6 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Neetu-Sahu/Neetu-Sahu/main/pic.png" width="100%" />
-
 ### Backend Developer • Data Analytics Enthusiast • IEEE Member
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" />
 
 <img src="https://img.shields.io/badge/BACKEND-DEVELOPER-4CAF50?style=for-the-badge" />
