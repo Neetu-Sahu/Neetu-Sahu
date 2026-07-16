@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_HEADER_IMAGE_URL" width="100%" />
+<img src="https://raw.githubusercontent.com/Neetu-Sahu/Neetu-Sahu/main/banner.jpeg" width="100%" />
 
 # Hi 👋, I'm Neetu Sahu
 
