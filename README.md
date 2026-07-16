@@ -1,6 +1,4 @@
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="middle">
+<div align="center">
 
 # Hi 👋, I'm Neetu Sahu
 
@@ -8,14 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Analytics+Enthusiast;IEEE+Member;Open+Source+Learner;Building+Technology+for+Real-World+Impact" />
 
-    </td>
-    <td valign="middle">
-      <img src="working.gif" width="150" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
+<img src="working.gif" width="200" />
 
 🎓 B.Tech Computer Science & Engineering (2024–2028)<br>
 🏫 Shri Ram Murti Smarak College of Engineering & Technology<br>
