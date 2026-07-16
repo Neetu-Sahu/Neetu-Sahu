@@ -59,6 +59,14 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Neetu-Sahu&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" />
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 ### 🏛️ BPIS
