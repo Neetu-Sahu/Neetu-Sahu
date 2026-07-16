@@ -1,4 +1,6 @@
-<div align="center">
+<table>
+  <tr>
+    <td valign="middle">
 
 # Hi 👋, I'm Neetu Sahu
 
@@ -14,7 +16,12 @@
 
 <img src="https://img.shields.io/badge/BACKEND-DEVELOPER-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/DATA-ANALYTICS-E91E63?style=for-the-badge" /> <img src="https://img.shields.io/badge/IEEE-MEMBER-1E88E5?style=for-the-badge" /> <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-00BCD4?style=for-the-badge" /> <img src="https://img.shields.io/badge/OPEN_SOURCE-LEARNER-F44336?style=for-the-badge" />
 
-</div>
+    </td>
+    <td valign="middle">
+      <img src="working.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
