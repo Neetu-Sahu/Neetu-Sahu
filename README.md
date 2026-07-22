@@ -106,9 +106,9 @@ Machine learning-powered misinformation detection platform utilizing NLP and con
 
 ### 🤖 Aurix
 AI-integrated healthcare assistant robot designed for hospital automation, patient monitoring, and elderly-care assistance featuring:
-* Real-time vitals tracking and alerts
-* Automation routines for medication scheduling
-* Interactive user assistance module
+* Real-time vitals tracking and alerts.
+* Automation routines for medication scheduling.
+* Interactive user assistance module.
 
 **Tech:** AI • Robotics • Automation  
 [🔗 View Details](https://portfolio-alpha-ochre-ejeqekgnuj.vercel.app/#projects)
