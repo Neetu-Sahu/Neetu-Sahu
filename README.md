@@ -84,9 +84,9 @@ Bharat Policy Intelligence System that analyzes socio-economic indicators and re
 
 ### 🌾 KhetSetu
 A sustainability-focused platform conceptualized for Smart India Hackathon that promotes:
-* Smart farming practices through crop disease detection
-* Weather insights and agricultural awareness
-* Educational content, gamification, and marketplace access
+* Smart farming practices through crop disease detection.
+* Weather insights and agricultural awareness.
+* Educational content, gamification, and marketplace access.
 
 **Tech:** Flask • Python • AI  
 [🔗 View Repository](https://github.com/Neetu-Sahu/Khet-Setu)
